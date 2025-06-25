@@ -33,6 +33,7 @@ Helpa blends **technical capability** with **user-centric assistance**, making i
 | **Amazon CloudWatch + SNS** | Monitors health metrics and sends alert notifications           |
 
 ---
+![alt text](helpa.png)
 
 ## 🧭 Use Case Scenario
 
